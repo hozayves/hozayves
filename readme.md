@@ -2,7 +2,7 @@
 
 🔭 I’m currently working as freelancer and also open to work with you 
 
-🧰 I use `TypeScript`, `React/Next.js`, `PostgreSQL`, `TailwindCSS`, `Prisma`, `Tanstack-query(react-query)`, `NodeJs`, `Express`, `Redux`
+🧰 I use `TypeScript`, `React/Next.js`, `React native`, `PostgreSQL`, `TailwindCSS`, `Prisma`, `Tanstack-query(react-query)`, `NodeJs`, `Express`, `Redux`
 
 🌱 I’m currently learning React Native
 
